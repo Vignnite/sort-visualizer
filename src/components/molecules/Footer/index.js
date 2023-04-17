@@ -8,12 +8,12 @@ const Footer = (props) => {
         Designed and built with{' '}
         <span className="Footer__Heart">&hearts;</span> by{' '}
         <a
-          href="https://www.linkedin.com/in/ramiz-rahman/"
+          href="https://github.com/Vignnite/sortz.git"
           target="_blank"
           rel="noopener noreferrer"
           className="Footer__Link"
         >
-          Ramiz Rahman
+          Sort-Z
         </a>
       </section>
 
